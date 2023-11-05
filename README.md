@@ -1,2 +1,2 @@
 # DataStorage_CoursDsign
-数据存储课程设计
+CUG 数据存储与管理 课程设计
